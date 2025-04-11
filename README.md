@@ -79,3 +79,21 @@
 - **Styling:** HTML + CSS custom metrics
 
 ---
+✨ **The Predictors Team**
+
+🧑‍💼 **Team Lead:** Daniyal Shaikh  
+👥 **Team Members:** Sagar Patil | Jasveer
+
+💡 _Passionate about AI, Machine Learning, and Predictive Analytics!_
+
+---
+
+📮 **Get in Touch**
+
+📧 **Email:** [daniyalsheikh3130@gmail.com](mailto:daniyalsheikh3130@gmail.com)  
+🔗 **GitHub:** [Project Repository](#)  
+🌐 **Web App:** [Live Demo](#)
+
+---
+
+
