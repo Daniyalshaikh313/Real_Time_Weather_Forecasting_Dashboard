@@ -7,7 +7,6 @@
 </p>
 
 ## 🔥 Overview
-
 **Weather Forecasting Dashboard** is a dynamic, AI-powered Streamlit application built for real-time and historical weather analysis. Designed for hackathons and data storytelling, this app combines **real-time OpenWeatherMap forecasts** with a **Random Forest regression model** trained on historical weather data to make highly accurate, **hourly predictions of temperature and wind**. 🎯
 
 🏆 _Perfect for data visualization hackathons and forecasting challenges!_
@@ -15,6 +14,9 @@
 ---
 
 ## 📸 Dashboard Preview
+**Real-Time Weather Forecasting Dashboard Link:** 
+https://realtimeweatherforecastingdashboard-maebppkkjwa2dndrnct6hl.streamlit.app/
+
 ![image](https://github.com/user-attachments/assets/c826dde0-5ce0-4aea-9fd5-10727ccd3547)
 ![image](https://github.com/user-attachments/assets/981ccfd9-33ed-427e-8697-0b151483f03d)
 ![image](https://github.com/user-attachments/assets/4e27f1a7-17f3-4105-ab8e-58647ffe6379)
