@@ -93,8 +93,8 @@ https://realtimeweatherforecastingdashboard-maebppkkjwa2dndrnct6hl.streamlit.app
 📮 **Get in Touch**
 
 📧 **Email:** [daniyalsheikh3130@gmail.com](mailto:daniyalsheikh3130@gmail.com)  
-🔗 **GitHub:** [Project Repository](#)  
-🌐 **Web App:** [Live Demo](#)
+🔗 **GitHub:** [https://github.com/Daniyalshaikh313/Real_Time_Weather_Forecasting_Dashboard](#)  
+🌐 **Web App:** [https://realtimeweatherforecastingdashboard-maebppkkjwa2dndrnct6hl.streamlit.app/](#)
 
 ---
 
